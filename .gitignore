@@ -1,0 +1,20 @@
+# Simulation build artifacts and waveforms
+sim/*.vvp
+sim/*.vcd
+!sim/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+*~
